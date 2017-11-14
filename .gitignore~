@@ -1,5 +1,3 @@
-client_secrets.json
-test-server.json
 .idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,7 @@
+google-api-python-client
+tensorflow
+numpy
+matplotlib
+pandas
+sklearn
+scipy
